@@ -1,6 +1,6 @@
 {
-    "name": "CrickSkill",
-    "short_name": "CrickSkill",
+    "name": "Admin DashBoard",
+    "short_name": "Admin DashBoard",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
